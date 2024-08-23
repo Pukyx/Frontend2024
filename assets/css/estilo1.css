@@ -1,0 +1,42 @@
+
+main{
+    background-color: aqua;
+}
+footer{
+    background-color: beige;
+}
+nav{
+    text-align: right;
+}
+#nav1 a{
+    color:gray
+}
+#nav2 a{
+    color:black;
+    font-size:30px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+nav a{
+    text-decoration: none;
+  
+}
+#seccion1{
+    background-color: blue;
+}
+
+#cajitaBlanca{
+    margin-left: 10%;
+    background-color: white;
+    width: 60%;
+    display: inline-block;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+#cajitaImagen{
+    width: 25%;
+    display: inline;
+    background-color: aqua;
+    margin-left: 5%;
+}
