@@ -1,6 +1,6 @@
 
 main{
-    background-color: aqua;
+    /* background-color: aqua; */
 }
 footer{
     background-color: beige;
@@ -23,6 +23,7 @@ nav a{
 }
 #seccion1{
     background-color: blue;
+    padding-bottom: 20px;
 }
 
 #cajitaBlanca{
@@ -39,4 +40,43 @@ nav a{
     display: inline;
     background-color: aqua;
     margin-left: 5%;
+}
+#buscador{
+    background-color: white;
+   
+    width: 70%;
+    margin: auto;
+    margin-top: 5px;
+    border-radius: 5px;
+    /* height: 30px; */
+}
+#iBuscador{
+    height: 100%;
+    width: 85%;
+    border: none;
+    border-radius: 10px;
+}
+#btnBuscar{
+    height: 100%;
+    /* width: 8%; */
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 15px;
+    padding: 10px 30px;
+    margin: 10px 0;
+}
+.titulo1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+.parrafo1{
+    text-align: center;
+}
+.linea1{
+    width: 5%;
+    margin: auto;
+    background-color: green;
+    border: solid 1px green;
 }
