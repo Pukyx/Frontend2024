@@ -80,3 +80,28 @@ nav a{
     background-color: green;
     border: solid 1px green;
 }
+.tarjeta{
+    background-color: grey;
+    text-align: center;
+    padding: 10px 10px;
+    width: 25%;
+    border-radius: 15px;
+    display: inline-block;
+}
+.tarjeta p{
+    text-align: left;
+}
+.tarjeta button{
+    color: white;
+    background-color: blue;
+    border:none;
+    border-radius: 15px;
+    padding: 10px 30px;
+}
+.tarjeta img{
+    height: 200px;
+    
+}
+.contenedorTarjeta{
+    display: inline;
+}
