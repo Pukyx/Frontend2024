@@ -104,4 +104,44 @@ nav a{
 }
 .contenedorTarjeta{
     display: inline;
+
+    margin-left: 200px;*/
 }
+
+.rosa{
+    /*background-color: deeppink;*/
+    display:center;
+}
+
+.tarjeta{
+    background-color: grey;
+    text-align: center;
+    padding: 10px 10px;
+    width: 25%;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+.contenedorT2{
+    display: inline;
+    margin-left: 200px;*/;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
